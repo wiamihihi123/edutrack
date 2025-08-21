@@ -29,7 +29,7 @@ const classesData = [
     level: 'Terminale',
     section: 'Scientifique',
     students: 32,
-    mainTeacher: 'Marie Martin',
+    mainTeacher: 'wiam Ihihi',
     room: 'B101',
     schedule: 'Lun-Ven 8h-12h',
     status: 'active'
@@ -40,7 +40,7 @@ const classesData = [
     level: 'Première',
     section: 'Économique et Sociale',
     students: 28,
-    mainTeacher: 'Pierre Durand',
+    mainTeacher: 'Ouissal Hammy',
     room: 'A205',
     schedule: 'Lun-Ven 13h-17h',
     status: 'active'
@@ -51,7 +51,7 @@ const classesData = [
     level: 'Seconde',
     section: 'Générale',
     students: 30,
-    mainTeacher: 'Sophie Petit',
+    mainTeacher: 'Amine akhsass',
     room: 'B103',
     schedule: 'Lun-Ven 8h-12h',
     status: 'active'
@@ -62,7 +62,7 @@ const classesData = [
     level: 'Terminale',
     section: 'Littéraire',
     students: 24,
-    mainTeacher: 'Lucas Moreau',
+    mainTeacher: 'Lina martil',
     room: 'A110',
     schedule: 'Lun-Ven 13h-17h',
     status: 'inactive'
@@ -70,9 +70,9 @@ const classesData = [
 ];
 
 const mockStudents = [
-  { id: 1, name: 'Jean Dupont', email: 'jean.dupont@example.com', status: 'active' },
-  { id: 2, name: 'Marie Martin', email: 'marie.martin@example.com', status: 'active' },
-  { id: 3, name: 'Pierre Durand', email: 'pierre.durand@example.com', status: 'inactive' },
+  { id: 1, name: 'Wiam Ihihi', email: 'wiamihihi@gmail.com', status: 'active' },
+  { id: 2, name: 'Wassim Alaoui ', email: 'WassimAlaoui@gmail.com', status: 'active' },
+  { id: 3, name: 'Ahmed Ali', email: 'ahmedAli@gmail.com', status: 'inactive' },
 ];
 
 const Classes = () => {

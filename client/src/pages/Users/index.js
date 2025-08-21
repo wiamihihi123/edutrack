@@ -53,14 +53,14 @@ const createUserData = (id, name, email, role, status, avatar, joinDate) => {
 };
 
 const initialUsers = [
-  createUserData(1, 'Jean Dupont', 'jean.dupont@example.com', 'Admin', 'Actif', '', '2023-01-15'),
-  createUserData(2, 'Marie Martin', 'marie.martin@example.com', 'Enseignant', 'Actif', '', '2023-02-20'),
-  createUserData(3, 'Pierre Durand', 'pierre.durand@example.com', 'Étudiant', 'Inactif', '', '2023-03-10'),
-  createUserData(4, 'Sophie Petit', 'sophie.petit@example.com', 'Étudiant', 'Actif', '', '2023-03-15'),
-  createUserData(5, 'Lucas Moreau', 'lucas.moreau@example.com', 'Enseignant', 'En attente', '', '2023-04-05'),
-  createUserData(6, 'Emma Bernard', 'emma.bernard@example.com', 'Étudiant', 'Actif', '', '2023-04-10'),
-  createUserData(7, 'Hugo Laurent', 'hugo.laurent@example.com', 'Étudiant', 'Bloqué', '', '2023-04-15'),
-  createUserData(8, 'Léa Petit', 'lea.petit@example.com', 'Enseignant', 'Actif', '', '2023-05-01'),
+  createUserData(1, 'Wiam ihihi', 'wiamihihi038@gmail.com', 'Admin', 'Actif', '', '2023-01-15'),
+  createUserData(2, 'Amine alaoui', 'amineAlaoui@gmail.com', 'Enseignant', 'Actif', '', '2023-02-20'),
+  createUserData(3, 'Aya marrisi', 'AyaMarrisi@gmail.com', 'Étudiant', 'Inactif', '', '2023-03-10'),
+  createUserData(4, 'Hicham ihihi', 'hichamihihi@gmail.com', 'Étudiant', 'Actif', '', '2023-03-15'),
+  createUserData(5, 'Ilyass chahir', 'ilyassgmailChahir@.com', 'Enseignant', 'En attente', '', '2023-04-05'),
+  createUserData(6, 'Emma Bernard', 'emma.bernard@gmail.com', 'Étudiant', 'Actif', '', '2023-04-10'),
+  createUserData(7, 'Ouissal hammy ', 'ouissalHammy@gmail.com', 'Étudiant', 'Bloqué', '', '2023-04-15'),
+  createUserData(8, 'amine akhsass', 'amineAkhsass@gmail.com', 'Enseignant', 'Actif', '', '2023-05-01'),
 ];
 
 const statusColors = {

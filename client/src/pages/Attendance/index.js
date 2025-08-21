@@ -13,9 +13,9 @@ import {
 
 // Données factices
 const students = [
-  { id: 1, name: 'Jean Dupont', class: 'Terminale S1' },
-  { id: 2, name: 'Marie Martin', class: 'Terminale S1' },
-  { id: 3, name: 'Pierre Durand', class: 'Terminale S1' },
+  { id: 1, name: 'walid ihihi', class: 'Terminale S1' },
+  { id: 2, name: 'zineb assouli', class: 'Terminale S1' },
+  { id: 3, name: 'khaled amal', class: 'Terminale S1' },
 ];
 
 const Attendance = () => {

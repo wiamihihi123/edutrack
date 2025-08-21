@@ -59,7 +59,7 @@ const subjectsData = [
     level: 'Terminale',
     credits: 4,
     hoursPerWeek: 6,
-    teacher: 'Marie Martin',
+    teacher: 'Wiam Ihihi',
     description: 'Algèbre, géométrie, analyse et probabilités',
     status: 'active',
     chapters: [
@@ -94,7 +94,7 @@ const subjectsData = [
     level: 'Première',
     credits: 3,
     hoursPerWeek: 4,
-    teacher: 'Pierre Durand',
+    teacher: 'Ouissal hammy',
     description: 'Littérature française et analyse de textes',
     status: 'active',
     chapters: [
@@ -119,7 +119,7 @@ const subjectsData = [
     level: 'Terminale',
     credits: 4,
     hoursPerWeek: 5,
-    teacher: 'Sophie Petit',
+    teacher: 'khaled ali',
     description: 'Mécanique, électricité, chimie organique',
     status: 'active',
     chapters: [
@@ -154,7 +154,7 @@ const subjectsData = [
     level: 'Seconde',
     credits: 2,
     hoursPerWeek: 3,
-    teacher: 'Lucas Moreau',
+    teacher: 'Lina amri',
     description: 'Histoire contemporaine et géographie mondiale',
     status: 'inactive',
     chapters: [
@@ -189,7 +189,7 @@ const subjectsData = [
     level: 'Première',
     credits: 3,
     hoursPerWeek: 4,
-    teacher: 'Julie Bernard',
+    teacher: 'Julia amir',
     description: 'Économie, sociologie et sciences politiques',
     status: 'active',
     chapters: [

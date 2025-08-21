@@ -18,13 +18,13 @@ import {
 
 // Données factices
 const students = [
-  { id: 1, name: 'Jean Dupont', class: 'Terminale S1', status: 'active' },
-  { id: 2, name: 'Marie Martin', class: 'Terminale S1', status: 'active' },
-  { id: 3, name: 'Pierre Durand', class: 'Terminale S1', status: 'active' },
-  { id: 4, name: 'Sophie Bernard', class: 'Terminale S1', status: 'active' },
-  { id: 5, name: 'Thomas Leroy', class: 'Terminale S2', status: 'active' },
-  { id: 6, name: 'Julie Petit', class: 'Terminale S2', status: 'active' },
-  { id: 7, name: 'Nicolas Moreau', class: 'Terminale S2', status: 'active' },
+  { id: 1, name: 'wiam ihihi', class: 'Terminale S1', status: 'active' },
+  { id: 2, name: 'ouissal hammy', class: 'Terminale S1', status: 'active' },
+  { id: 3, name: 'ilyass chahir ', class: 'Terminale S1', status: 'active' },
+  { id: 4, name: 'aya marissi', class: 'Terminale S1', status: 'active' },
+  { id: 5, name: 'chaimae hamdoune', class: 'Terminale S2', status: 'active' },
+  { id: 6, name: 'akhsass amine', class: 'Terminale S2', status: 'active' },
+  { id: 7, name: 'ahmed amine', class: 'Terminale S2', status: 'active' },
 ];
 
 const subjects = [
