@@ -1,15 +1,14 @@
 {
   "name": "edutrack",
   "version": "1.0.0",
-  "description": "Plateforme de gestion des étudiants, classes, enseignants et cours",
-  "main": "server/index.js",
   "scripts": {
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "server": "nodemon server/index.js",
     "client": "cd client && npm start",
-    "build": "cd client && npm run build",
+    "build": "cd client && npm install && npm run build",
     "install-all": "npm install && cd client && npm install",
-    "start": "node server/index.js"
+    "start": "node server/index.js",
+    "vercel-build": "cd client && npm install && npm run build"
   },
   "keywords": ["education", "student-management", "school", "react", "nodejs"],
   "author": "EduTrack Team",

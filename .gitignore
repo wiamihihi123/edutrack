@@ -1,7 +1,13 @@
-# .gitignore
+# Dependencies
 node_modules/
 client/node_modules/
-server/node_modules/
+
+# Environment variables
 .env
-.DS_Store
-npm-debug.log
+.env.local
+.env.development
+.env.production
+
+# Build
+client/build/
+dist/
